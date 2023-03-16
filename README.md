@@ -4,3 +4,6 @@ This website already implement responsive design using flex box, but not that gr
 
 ## Website Demo
 ![alt](https://media.giphy.com/media/5Pq1P0neePyr4pQcSC/giphy.gif)
+
+## Website Github Page Demo
+[cryxto.github.io/simple-static-web](https://cryxto.github.io/simple-static-web/)
